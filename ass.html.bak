@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Responsive Online Study Websitel</title>
+
+    <!-- google fonts cdn link  -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="ass.css">
+
+</head>
+<body>
+   
+<!-- header section starts  -->
+
+<header>
+
+    <div id="menu" class="fas fa-bars"></div>
+
+    <a href="pro.html" class="logo"><i class="fas fa-user-graduate"></i>WebCrafters</a>
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="#home">home</a></li>
+            <li><a href="#about">about</a></li>
+            <li><a href="#course">course</a></li>
+            <li><a href="#teacher">teacher</a></li>
+            <li><a href="#contact">contact</a></li>
+			<li><a href="ABOUT US PAGE\online education\home.html">more cources</a></li>
+        </ul>
+    </nav>
+	<a href="ass1.html">
+    <div id="login" class="fas fa-user-circle">&nbsp;&nbsp;<button class="btn">LOG OUT</button></a></div>
+	
+</header>
+
+<!-- home section starts  -->
+
+<section class="home" id="home">
+
+    <h1>education from home</h1>
+    <p>Home education, also known as home schooling, involves education your children at home instead of in the traditional classroom environment. Home education offers a range of benefits, as well as challenges, for both parents and children.</p>
+
+    <div class="shape"></div>
+
+</section>
+
+<!-- home section ends -->
+
+<!-- about section starts  -->
+
+<section class="about" id="about">
+
+    <div class="image">
+        <img src="depositphotos_223198744-stock-photo-why-choose-young-man-using.jpg" alt="">
+    </div>
+
+    <div class="content">
+        <h3>why choose us?</h3>
+        <p>Optimized solution for education services based on useful collected data. if student is gazing at the screen & attention rate while enjoying the education contents. Get A Quick Demo. Chat Support Available.</p>
+        <p>Time Efficient - By using e-learning you can study when it suits you, for as long and as often as you want. Simplicity - Since the student can study and repeat at any time the learning is easier. Guidance - A Premium Course student can easily come in contact with us for help and support.</p>
+        </div>
+        </div>
+
+</section>
+
+<!-- about section ends -->
+
+<!-- course section starts  -->
+
+<section class="course" id="course">
+
+<h1 class="heading">our popular courses</h1>    
+
+<div class="box-container">
+
+    <div class="box">
+        <img src="thumbnail.png" alt="">
+        <h3 class="price">$30</h3>
+        <div class="content">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <a href="hitesh\html.html" class="title">HTML and CSS</a>
+            <p>Learn about the theory, practice and overlooked concepts of HTML5. Enroll now! Learn Basic Web Design. Finish in 5 Courses. 100% Online Course. Univ. of Michigan Course.</p>
+            <div class="info">
+                <h3> <i class="far fa-clock"></i> 2 hours </h3>
+                <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
+                <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="download.jpeg" alt="">
+        <h3 class="price">$20</h3>
+        <div class="content">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half"></i>
+            </div>
+            <a href="hitesh\JAVASCRIPT.html" class="title">JavaScript</a>
+            <p>Full Stack Software Development with Use Cases and Scenarios for Software Requirements. Preferred by 20000+ Learners. Capstone Project. 300+ top tech firms as hiring partners.
+</p>
+            <div class="info">
+                <h3> <i class="far fa-clock"></i> 2 hours </h3>
+                <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
+                <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="python-programming-language.png" alt="">
+        <h3 class="price">$50</h3>
+        <div class="content">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half"></i>
+            </div>
+            <a href="https://www.codingninjas.com/courses/online-python-course?source=google&campaign=google_search_python_remark_course_21-01-20_exact&utm_source=google&utm_medium=[search]&utm_campaign=8982874797_91422301875_e_python%20course__412675896694_c&gclid=Cj0KCQiA5aWOBhDMARIsAIXLlkdl_jAPHBHL0doYoRx7adDUGi1Sb9fvje-PlS7P9dujBgmQmW4MW4saAgc9EALw_wcB" class="title">Python</a>
+            <p>Industry-focused curriculum with convenience of Online Learning | Career Assistance & more. Program designed to provide deep technical traning in the field of AI & ML, Enrol Today.</p>
+            <div class="info">
+                <h3> <i class="far fa-clock"></i> 2 hours </h3>
+                <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
+                <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="w3school.png" alt="">
+        <h3 class="price">$19</h3>
+        <div class="content">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half"></i>
+            </div>
+            <a href="https://www.w3schools.com/" class="title">w3schools</a>
+            <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references ..</p>
+            <div class="info">
+                <h3> <i class="far fa-clock"></i> 2 hours </h3>
+                <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
+                <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="Coding_Ninjas_logo.jpeg" alt="">
+        <h3 class="price">$69</h3>
+        <div class="content">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <a href="https://www.codingninjas.com/" class="title">Coding Ninja</a>
+            <p>Coding Ninjas is one of the best learning platforms. I enrolled into C++ Foundation with Data Structures. The course content was very informative and well ...</p>
+            <div class="info">
+                <h3> <i class="far fa-clock"></i> 2 hours </h3>
+                <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
+                <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="h2917prj7ldo0ow5x5ih.jpeg" alt="">
+        <h3 class="price">$5</h3>
+        <div class="content">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <a href="https://www.udemy.com/topic/c-plus-plus/?utm_source=adwords&utm_medium=udemyads&utm_campaign=CPlusPlus_v.PROF_la.EN_cc.INDIA_ti.4908&utm_content=deal4584&utm_term=_._ag_82581780605_._ad_559314707271_._kw_c%2B%2B%20course_._de_c_._dm__._pl__._ti_kwd-11197081_._li_9040173_._pd__._&matchtype=e&gclid=Cj0KCQiA5aWOBhDMARIsAIXLlketbskUqlFEc5ywChvrh_C0s_kvMOMDDX5wjaFC-bfm7YHbzyVD1fAaAnHPEALw_wcB" class="title">C++</a>
+            <p>Learn the Core C++ Concepts Starting from Scratch. Develop game engines, games & More. Get Practical Exposure & Learn C++ Concepts Through Active Problem-solving.</p>
+            <div class="info">
+                <h3> <i class="far fa-clock"></i> 2 hours </h3>
+                <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
+                <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</section>
+
+<!-- course section ends -->
+
+
+<!-- teacher section starts  -->
+
+<section class="teacher" id="teacher">
+
+<h1 class="heading">our expert teachers</h1>
+
+<p>Expert teachers possess confidence in themselves and their profession. They understand the school vision, mission, values and practice curriculum in the best way, and present knowledge of content and pedagogical knowledge. Developing personal and working relationships with students to maximize student learning.</p>
+
+<a href="https://network.expertisefinder.com/search-experts?query=teacher%20professional%20development"><button class="btn">learn more</button></a>
+
+</section>
+
+<!-- teacher section ends -->
+
+<!-- contact section starts  -->
+
+<section class="contact" id="contact">
+
+<h1 class="heading">contact us</h1>
+
+<div class="row">
+
+    <form action="END PAGE.html">
+        <input type="text" placeholder="FIRST NAME" class="box" maxlength="10" required>
+        <input type="text" placeholder="LAST NAME" class="box" maxlength="8" required>
+        <input type="email" placeholder="YOUR EMAIL" class="box" required>
+        <input type="text" placeholder="TYPE YOUR MESSAGE" class="box" maxlength="100" required>
+        <textarea name="" id="" cols="30" rows="10" class="box address" placeholder="ADDITIONAL INFO"></textarea>
+        <input type="submit" class="btn" value="send now">
+    </form>
+
+    <div class="image">
+        <img src="C:\Users\himan\OneDrive\Documents\HTML AND CSS\PROJECT/contact-img.png" alt="">
+    </div>
+
+</div>
+
+</section>
+
+<!-- contact section ends -->
+
+<!-- footer section starts  -->
+
+<div class="footer">
+
+    <div class="box-container">
+
+        <div class="box">
+            <h3>branch locations</h3>
+            <a href="#">India</a>
+            <a href="#">USA</a>
+            <a href="#">france</a>
+            <a href="#">russia</a>
+        </div>
+
+        <div class="box">
+            <h3>quick links</h3>
+            <a href="#">home</a>
+            <a href="#">about</a>
+            <a href="#">course</a>
+            <a href="#">teachers</a>
+            <a href="#">contact</a>
+        </div>
+
+        <div class="box">
+            <h3>contact info</h3>
+            <p> <i class="fas fa-map-marker-alt"></i> patiala, india. </p>
+            <p> <i class="fas fa-envelope"></i> himanshu020104@gmail.com </p>
+            <p> <i class="fas fa-phone"></i> +123-456-7890 </p>
+        </div>
+
+    </div>
+
+    <h1 class="credit">created by <a href="ABOUT US PAGE\about-me-page-master\giri.html">GIRIRAJ,</a> <a href="ABOUT US PAGE\about-me-page-master\ishaan.html">ISHAAN,</a> <a href="ABOUT US PAGE\about-me-page-master\hitesh.html">HITESH,</a> <a href="ABOUT US PAGE\about-me-page-master\himi.html">HIMANSHU</a> all rights reserved. </h1>
+
+<!-- footer section ends -->
+
+<!-- jquery cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- custom js file link  -->
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Responsive Online Study Websitel</title>
+
+    <!-- google fonts cdn link  -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="ass1.css">
+
+</head>
+<body>
+   
+<!-- header section starts  -->
+
+<header>
+
+    <div id="menu" class="fas fa-bars"></div>
+
+    <a href="#" class="logo"><i class="fas fa-user-graduate"></i>WebCrafters</a>
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="#home"><B></B></a></li>
+        </ul>
+    </nav>
+	<a href="file:///C:/Users/himan/OneDrive/Documents/HTML%20AND%20CSS/PROJECT/Sliding-Sign-In-Sign-Up-Form-master/index.html?#">
+    <div id="login" class="fas fa-user-circle">&nbsp;&nbsp;<button class="btn">SIGN IN</button></a></div>
+	
+</header>
+
+<!-- header section ends -->
+
+<!-- home section starts  -->
+
+<section class="home" id="home">
+
+    <h1>education from home</h1>
+    <p>Home education, also known as home schooling, involves education your children at home instead of in the traditional classroom environment. Home education offers a range of benefits, as well as challenges, for both parents and children.</p>
+    <button type="button" class="btn" onclick="alert('LOGIN TO GET STARTED')">GET STARTED</button>
+
+    <div class="shape"></div>
+
+</section>
+
+<!-- home section ends -->
+<!-- jquery cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- custom js file link  -->
+<script src="script.js"></script>
+
+</body>
+</html>

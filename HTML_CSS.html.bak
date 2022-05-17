@@ -1,0 +1,164 @@
+<html>
+<head>
+<title>
+HTML and CSS
+</title>
+<link rel="stylesheet" href="html_css.css">
+<link rel="icon" href="logoo.png" type="image/x-icon"></p>
+<head>
+<body>
+<center><img src="logoo.png" height="25%" width="25%"></center>
+<center>
+	<div class="headbar">
+		<a href="main.html" style="text-decoration:none;">Home</a>
+		<a href="#html" style="text-decoration:none;">HTML</a>
+		<a href="#css" style="text-decoration:none;">CSS</a>
+		<a href="login_page.html" style="text-decoration:none;">Login/Sign up</a>
+		<a href="#about" style="text-decoration:none;">About Us</a>
+	</div>
+</center>
+<br><br>
+<!--<div>
+	<h2><b>What do you want to start with:</b></h2>
+	<ol>
+		<li>
+			<ul>
+				<li><a href="#about_html">About HTML</a></li>
+				<li><a href="#youtube_video">Youtube Video</a></li>
+				<li><a href="#w3_course">W<sup>3</sup>schools Course</a></li>
+			</ul>
+		</li>
+		<li><a href="#css">CSS</a>
+			<ul>
+				<li><a href="#about_css">About CSS</a></li> 
+				<li><a href="#youtube_video1">Youtube Video</a></li> 
+				<li><a href="#w3_course1">W<sup>3</sup>schools Course</a></li>
+			</ul>
+		</li>
+</div>-->
+<main>
+	<div>
+		<center>
+			<h1 id="html" style="background-color:brown">
+				<b>HTML</b> <br>
+				
+			</h1>
+		</center>
+		<img src="images.png" class="img1">
+		<p id="about_html" class="para1">
+		The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+	Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+	HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as &lt img/> and &lt input /> directly introduce content into the page. Other tags such as &lt p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
+		</p>
+	</div>
+
+	<div>
+		<h2 id="youtube_video" style="background-color:cornsilk">
+			Try learning HTML from this Youtube video
+		</h2>
+		<center><iframe height="480px" width="854px"
+		src="https://www.youtube.com/embed/BsDoLVMnmZs">
+		</iframe></center>
+		<h2>
+			Notes:
+		</h2>
+		<a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUtzOVU2enpQb0lFNzN1LTRVY1hzbW9Xd2tXUXxBQ3Jtc0tsckctM01DUEtnaEZmSXJLSHhJVXpKdEl2LXpraDdFMHE5YlgzT19QaDdsRFhSTGRob1YzTXY5Nk45MWNBNHQ0MTNpY2o1RHZ5U2NvSUNzNFpCak1fOUJUSWJReVl0andZWTJ2bzRyTjVRTTgxVWR1NA&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1XurNb2UThGAn261nwD1SY07Mc_jC1h7M%2Fview%3Fusp%3Dsharing">Download Notes from here</a>
+	</div>
+
+	<div>
+		<h2 id="w3_course" style="background-color:cornsilk">
+			W<sup>3</sup>schools offers an easy and efficient course about HTML:
+		</h2>
+		<h3>
+			Click on this image to try it
+		</h3>
+		<center>
+			<input type="image" src="capture.jpg" alt="Submit" height="480px" width="854px">
+		</center>
+	</div>
+
+	<div>
+		<center>
+			<h1 id="css" style="background-color:cornsilk">
+				<b>CSS</b> <br>
+				
+			</h1>
+		</center>
+		<img src="css.jpg" class="img2">
+		<p id="about_css" class="para2">
+		Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]
+		CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.
+		Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices. CSS also has rules for alternate formatting if the content is accessed on a mobile device.[4]
+		The name cascading comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable.
+		</p>
+	</div>
+
+	<div>
+		<h2 id="youtube_video1" style="background-color:cornsilk">
+			Try learning CSS from this Youtube video
+		</h2>	
+		<center><iframe height="480px" width="854px"
+		src="https://www.youtube.com/embed/Edsxf_NBFrw">
+		</iframe></center>
+		<h3>
+			Notes:
+		</h3>
+		<a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDlGRElYQVVhN2JpcXdPMTUwSzJpQkdRS3lGUXxBQ3Jtc0ttZVZ5TlZabE4yQmp6enJ1WWxta2xjY1lzR2FHZGNRaHZXQjB5SG50elF4US1BcVIyUDE1eW5PblZWVGdnRUZVQzBuYmtISjZLNjZFTTlqa0VIbTluUUM5YXBhMjFhNExqbE43NmRDY3FudE9WbVUwNA&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1ixsoDb8mCuIZWCHQyOb7jc735BDDsiHe%2Fview%3Fusp%3Dsharing">Download Notes from here</a>
+	</div>
+
+	<div>
+		<h2 id="w3_course1" style="background-color:cornsilk">
+			W<sup>3</sup>schools offers an easy and efficient course about CSS:
+		</h2>
+		<h3>
+			Click on this image to try it
+		</h3>
+		<center>
+			<input type="image" src="capture1.jpg" alt="Submit"  height="480px" width="854px">
+		</center>
+	</div>
+</main>
+<div>
+	
+	<center>
+		<footer>
+			<div id="about">
+				<h3>Hitesh Kukreja</h3>
+				<h3>Giriraj Singh Shekhawat</h3>
+				<h3>Himanshu Verma</h3>
+				<h3>Ishan Tayal</h3>
+			</div>
+			<div>
+				<h4>For Feedback and Issues</h4>
+				<h5>Reach us at: we6craft9rs@gmail.com</h5>
+			</div> 
+		</footer>
+	</center>
+	<p>gsvcshjdvciusdhbviudcivdv</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
