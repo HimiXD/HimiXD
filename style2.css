@@ -12,7 +12,7 @@ body{
     height: 100vh;
 }
 .about-left{
-    background: #80ff00;
+    background: #ff4000;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,7 +20,7 @@ body{
     height: 100vh;
 }
 .about-left-content > div{
-    background: #00ff80;
+    background: 	#ff8000;
     padding: 4rem 4rem 2.5rem 5rem;
     text-align: center;
 }
